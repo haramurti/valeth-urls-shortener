@@ -25,3 +25,4 @@ func AutoMigrate(db *gorm.DB) error {
 }
 
 //this is acomment
+//I still ne too fix couple of things
